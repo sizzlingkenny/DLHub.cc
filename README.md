@@ -1,80 +1,118 @@
-# DLHub.cc
+<div align="center">
 
-Official desktop and mobile apps for **DLHub.cc** — a fast search and download engine for Windows, Android, and iOS apps.
+<a href="https://dlhub.cc">
+  <img src="screenshots/logo.png" alt="DLHub.cc Logo" width="180">
+</a>
 
-DLHub.cc indexes millions of files and helps users quickly discover, search, and download software from one simple interface.
+# DLHub.cc Apps
 
-## Apps
+Official **DLHub.cc Windows and Android apps** for fast searching, browsing, and downloading indexed files.
 
-### Android App
+🌐 **Website:** https://dlhub.cc
 
-The DLHub.cc Android app provides a lightweight mobile experience for searching and downloading files directly from Android phones and tablets.
+</div>
 
-**Features**
+---
 
-- Fast search across millions of indexed files
-- Clean and simple mobile interface
-- One-tap downloads
-- Secure HTTPS connection
-- Regular database updates
-- Optimized for Android devices
+## About DLHub.cc
 
-**Requirements**
+DLHub.cc is a search and download engine for **Windows, Android, and iOS apps**.  
+Millions of files are indexed to help users quickly find and download apps from one simple platform.
 
-- Android 7.0 or later
-- Internet connection
+---
 
-### Windows App
+## Android App
+
+The DLHub.cc Android app gives users a clean and mobile-friendly way to access DLHub.cc directly from Android phones and tablets.
+
+### Android Features
+
+- Fast app search
+- Simple mobile interface
+- One-tap download access
+- Lightweight APK
+- Secure connection with DLHub.cc
+- Easy installation guide included
+
+### Android Installation Guide
+
+<p align="center">
+  <img src="screenshots/dlhubapk1.jpeg" width="220">
+  <img src="screenshots/dlhubapk2.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="screenshots/dlhubapk3.jpeg" width="220">
+  <img src="screenshots/dlhubapk4.jpeg" width="220">
+</p>
+
+---
+
+## Windows App
 
 The DLHub.cc Windows app gives desktop users quick access to DLHub.cc search and download features.
 
-**Features**
+### Windows Features
 
-- Fast desktop search
-- Lightweight Windows interface
-- Quick access to indexed downloads
-- Secure connection to DLHub.cc
-- Simple installation and updates
+- Fast desktop access
+- Clean Windows interface
+- Easy app search
+- Quick downloads
+- Lightweight setup
+- Built for Windows users
 
-**Requirements**
+### Windows Installation Guide
 
-- Windows 10 or later
-- Internet connection
+<p align="center">
+  <img src="screenshots/dlhub1.png" width="420">
+</p>
+
+<p align="center">
+  <img src="screenshots/dlhub2.png" width="420">
+</p>
+
+<p align="center">
+  <img src="screenshots/dlhub3.png" width="420">
+</p>
+
+<p align="center">
+  <img src="screenshots/dlhub4.png" width="420">
+</p>
+
+---
 
 ## Download
 
-Download the latest official versions from the **Releases** page:
+Download the latest official DLHub.cc apps from the **Releases** section of this repository.
 
 - Android APK
-- Windows installer / portable version
+- Windows App
 
-Website: https://dlhub.cc
+---
 
-## Installation
+## Official Links
 
-### Android
+- Website: https://dlhub.cc
+- GitHub: https://github.com/sizzlingkenny/DLHub.cc
 
-1. Download the latest APK from Releases.
-2. Open the APK on your Android device.
-3. Allow “Install unknown apps” if Android asks.
-4. Install and open DLHub.cc.
+---
 
-### Windows
+## Safety Notice
 
-1. Download the latest Windows release.
-2. Run the installer or portable app.
-3. Open DLHub.cc and start searching.
-
-## Safety
-
-Only download DLHub.cc apps from this official GitHub repository or from:
+Only download DLHub.cc apps from this official GitHub repository or from the official website:
 
 https://dlhub.cc
 
+---
+
 ## Support
 
-For bugs, issues, or feature requests, open a GitHub Issue.
+For bugs, issues, or feature requests, open an issue on this GitHub repository.
 
-## Disclaimer
+---
 
-DLHub.cc is a search and indexing platform. Availability of files may depend on external sources and regional access.
+<div align="center">
+
+**DLHub.cc — Search. Discover. Download.**
+
+</div>
