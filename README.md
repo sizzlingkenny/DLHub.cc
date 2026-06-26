@@ -6,113 +6,174 @@
 
 # DLHub.cc Apps
 
-Official **DLHub.cc Windows and Android apps** for fast searching, browsing, and downloading indexed files.
+Official Windows and Android applications for **DLHub.cc**
 
-🌐 **Website:** https://dlhub.cc
+Search • Discover • Download
+
+<p>
+
+<a href="https://github.com/sizzlingkenny/DLHub.cc/releases/latest">
+<img src="https://img.shields.io/badge/⬇_Download-Windows-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sizzlingkenny/DLHub.cc/releases/latest">
+<img src="https://img.shields.io/badge/⬇_Download-Android-success?style=for-the-badge">
+</a>
+
+<a href="https://dlhub.cc">
+<img src="https://img.shields.io/badge/🌐_Visit-DLHub.cc-2ea44f?style=for-the-badge">
+</a>
+
+</p>
+
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-blue)
+![HTTPS](https://img.shields.io/badge/Secure-HTTPS-success)
+![Status](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
 </div>
 
 ---
 
-## About DLHub.cc
+# 🚀 About
 
-DLHub.cc is a search and download engine for **Windows, Android, and iOS apps**.  
-Millions of files are indexed to help users quickly find and download apps from one simple platform.
+DLHub.cc is a fast search and download platform for Windows, Android, and iOS applications.
+
+Millions of indexed files are available through an easy-to-use interface designed for both desktop and mobile users.
 
 ---
 
-## Android App
+# ✨ Why DLHub?
 
-The DLHub.cc Android app gives users a clean and mobile-friendly way to access DLHub.cc directly from Android phones and tablets.
+- 🔍 Powerful search engine
+- ⚡ Fast and lightweight
+- 📱 Android application
+- 🖥 Windows desktop application
+- 🔒 Secure HTTPS connection
+- 📂 Millions of indexed files
+- 🔄 Regular updates
+- 🆓 Free to use
 
-### Android Features
+---
 
-- Fast app search
-- Simple mobile interface
-- One-tap download access
+# 📱 Android App
+
+The official Android application lets you browse and search DLHub.cc directly from your phone.
+
+## Features
+
+- Fast search
 - Lightweight APK
-- Secure connection with DLHub.cc
-- Easy installation guide included
-
-### Android Installation Guide
-
-<p align="center">
-  <img src="screenshots/dlhubapk1.jpeg" width="220">
-  <img src="screenshots/dlhubapk2.jpeg" width="220">
-</p>
-
-<p align="center">
-  <img src="screenshots/dlhubapk3.jpeg" width="220">
-  <img src="screenshots/dlhubapk4.jpeg" width="220">
-</p>
-
----
-
-## Windows App
-
-The DLHub.cc Windows app gives desktop users quick access to DLHub.cc search and download features.
-
-### Windows Features
-
-- Fast desktop access
-- Clean Windows interface
-- Easy app search
+- Clean interface
 - Quick downloads
-- Lightweight setup
-- Built for Windows users
+- Secure connection
+- Easy installation
 
-### Windows Installation Guide
+### Requirements
+
+- Android 7.0+
+- Internet connection
+
+## Installation Guide
 
 <p align="center">
-  <img src="screenshots/dlhub1.png" width="420">
+<img src="screenshots/dlhubapk1.jpeg" width="230">
+<img src="screenshots/dlhubapk2.jpeg" width="230">
 </p>
 
 <p align="center">
-  <img src="screenshots/dlhub2.png" width="420">
-</p>
-
-<p align="center">
-  <img src="screenshots/dlhub3.png" width="420">
-</p>
-
-<p align="center">
-  <img src="screenshots/dlhub4.png" width="420">
+<img src="screenshots/dlhubapk3.jpeg" width="230">
+<img src="screenshots/dlhubapk4.jpeg" width="230">
 </p>
 
 ---
 
-## Download
+# 🖥 Windows App
 
-Download the latest official DLHub.cc apps from the **Releases** section of this repository.
+The Windows desktop application provides quick access to DLHub.cc directly from your PC.
 
+## Features
+
+- Fast desktop search
+- Lightweight application
+- Modern interface
+- Quick downloads
+- Simple installation
+- Optimized for Windows
+
+### Requirements
+
+- Windows 10 / Windows 11
+- Internet connection
+
+## Installation Guide
+
+<p align="center">
+<img src="screenshots/dlhub1.png" width="430">
+<img src="screenshots/dlhub2.png" width="430">
+</p>
+
+<p align="center">
+<img src="screenshots/dlhub3.png" width="430">
+<img src="screenshots/dlhub4.png" width="430">
+</p>
+
+---
+
+# 📦 Current Release
+
+Latest versions are available in the **Releases** section.
+
+- Windows Installer
+- Windows Portable *(if available)*
 - Android APK
-- Windows App
+
+➡️ https://github.com/sizzlingkenny/DLHub.cc/releases/latest
 
 ---
 
-## Official Links
+# 🌐 Official Links
 
-- Website: https://dlhub.cc
-- GitHub: https://github.com/sizzlingkenny/DLHub.cc
-
----
-
-## Safety Notice
-
-Only download DLHub.cc apps from this official GitHub repository or from the official website:
+**Website**
 
 https://dlhub.cc
 
+**GitHub Repository**
+
+https://github.com/sizzlingkenny/DLHub.cc
+
 ---
 
-## Support
+# 🛡 Security
 
-For bugs, issues, or feature requests, open an issue on this GitHub repository.
+For your safety, download DLHub.cc applications **only** from:
+
+- https://dlhub.cc
+- https://github.com/sizzlingkenny/DLHub.cc
+
+---
+
+# 🐞 Support
+
+Found a bug or have a feature request?
+
+Open an Issue in this repository and we'll investigate it.
+
+---
+
+# 📄 License
+
+Copyright © DLHub.cc
+
+All rights reserved.
 
 ---
 
 <div align="center">
 
-**DLHub.cc — Search. Discover. Download.**
+## DLHub.cc
+
+### Search • Discover • Download
+
+Made with ❤️ for Windows & Android users.
 
 </div>
