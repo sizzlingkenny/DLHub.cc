@@ -12,12 +12,14 @@ Search • Discover • Download
 
 <p>
 
-<a href="https://github.com/sizzlingkenny/DLHub.cc/releases/latest">
+<!-- DIRECT DOWNLOAD LINKS -->
+
+<a href="https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloader.exe">
 <img src="https://img.shields.io/badge/⬇_Download-Windows-success?style=for-the-badge">
 </a>
 
-<a href="https://github.com/sizzlingkenny/DLHub.cc/releases/latest">
-<img src="https://img.shields.io/badge/⬇_Download-Android-success?style=for-the-badge">
+<a href="https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloaderAndroid.apk">
+<img src="https://img.shields.io/badge/⬇_Download-Android-green?style=for-the-badge">
 </a>
 
 <a href="https://dlhub.cc">
@@ -121,13 +123,16 @@ The Windows desktop application provides quick access to DLHub.cc directly from 
 
 # 📦 Current Release
 
-Latest versions are available in the **Releases** section.
+Latest versions (v1.0.0):
 
-- Windows Installer
-- Windows Portable *(if available)*
-- Android APK
+- 🖥 Windows Installer: 169 MB  
+  https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloader.exe
 
-➡️ https://github.com/sizzlingkenny/DLHub.cc/releases/latest
+- 🪟 Windows Portable ZIP: 67.8 MB  
+  https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloaderWindows.zip
+
+- 📱 Android APK: 7.64 MB  
+  https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloaderAndroid.apk
 
 ---
 
