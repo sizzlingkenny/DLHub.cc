@@ -129,7 +129,7 @@ The Windows desktop application provides quick access to DLHub.cc directly from 
 |----------|-----:|
 | 🖥 [Windows Installer (.exe)](https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloader.exe) | 169 MB |
 | 🪟 [Windows Portable (.zip)](https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloaderWindows.zip) | 67.8 MB |
-| 📱 [Android APK](https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloaderAndroid.apk) | 7.64 MB |
+| 📱 [Android APK](https://github.com/sizzlingkenny/DLHub.cc/releases/download/v1.0.0/DLHubDownloaderAndroid.apk) | 6.24 MB |
 
 ---
 
